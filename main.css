@@ -1,0 +1,24 @@
+.padding-from-top-text {
+  margin-top: 20px;
+}
+
+.padding-from-top-bar {
+  margin-top: 16px;
+}
+
+div.progress {
+  font-weight: bolder;
+  color: #fff;
+  background-color: #f3f3f3;
+  border: 0px none;
+  box-shadow: none;
+  height: 2.5em;
+}
+
+.progress-bar > span {
+  float: right;
+  position: relative;
+  top: 9px;
+  right: 2%;
+  font-size: 14px;
+}
